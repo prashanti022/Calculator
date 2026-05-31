@@ -2,7 +2,7 @@ Calculator Web Application
 A simple, responsive, and interactive calculator built using HTML, CSS, and JavaScript.
 It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 🚀 Live Demo
-👉 https://calculator-387348512784.asia-southeast1.run.app⁠�
+👉 https://calculator-387348512784.asia-southeast1.run.app
 📌 Features
 Addition (+)
 Subtraction (−)
