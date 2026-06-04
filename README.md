@@ -26,7 +26,7 @@ A responsive and interactive Calculator Web Application built using HTML, CSS, a
 
 📂 Project Structure
 
-Prashanti_Task1_Calculator/
+Calculator 
 │
 ├── index.html
 ├── Style.css
