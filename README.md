@@ -24,14 +24,16 @@ A responsive and interactive Calculator Web Application built using HTML, CSS, a
 - CSS3
 - JavaScript
 
-📂 Project Structure
+## 📂 Project Structure
 
-Calculator 
+```text
+OIBSIP/
 │
 ├── index.html
 ├── Style.css
 ├── script.js
 └── README.md
+```
 
 ⚙️ Installation
 
