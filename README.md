@@ -1,10 +1,10 @@
 🧮 Calculator Web Application
 
-A responsive and interactive Calculator Web Application built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations and provides a clean user-friendly interface for users.
+A responsive and interactive Calculator Web Application built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations and provides a clean, user-friendly interface for users.
 
 🚀 Live Demo
 
-https://calculator-387348512784.asia-southeast1.run.app
+👉 https://calculator-387348512784.asia-southeast1.run.app
 
 📌 Features
 
@@ -14,7 +14,7 @@ https://calculator-387348512784.asia-southeast1.run.app
 - Division (÷)
 - Clear Screen (AC)
 - Delete Last Digit (DEL)
-- Responsive Design
+- Responsive Design (Mobile & Desktop)
 - User-Friendly Interface
 - Real-Time Calculation Display
 
@@ -29,18 +29,19 @@ https://calculator-387348512784.asia-southeast1.run.app
 Prashanti_Task1_Calculator/
 │
 ├── index.html
-├── style.css
+├── Style.css
 ├── script.js
 └── README.md
 
 ⚙️ Installation
 
 1. Clone the repository:
-   git clone <repository-link>
+
+git clone https://github.com/prashanti022/OIBSIP.git
 
 2. Open the project folder.
 
-3. Run index.html in any web browser.
+3. Run "index.html" in any web browser.
 
 🎯 Learning Outcomes
 
@@ -48,7 +49,7 @@ Prashanti_Task1_Calculator/
 - Event Handling
 - Responsive Web Design
 - JavaScript Functions
-- UI Development
+- User Interface Development
 
 👩‍💻 Author
 
@@ -56,4 +57,8 @@ Boddepalli Prashanti
 
 ⭐ Support
 
-If you like this project, please give it a star on GitHub.
+If you like this project, please give it a ⭐ on GitHub.
+
+📜 License
+
+This project is created for educational and internship purposes.
